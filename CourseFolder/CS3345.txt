@@ -1,5 +1,0 @@
-CS3345
-Algorithmic Analysis & Data Structures
-Greg Ozbirn
-Monday/Wednesday 11:30AM-12:45PM
-CS2305,CS2337

@@ -1,5 +1,0 @@
-CS2340
-Computer Architecture
-Karen Mazidi
-Tuesday/Thursday 11:30M-12:45PM
-CS2305,CS1337
